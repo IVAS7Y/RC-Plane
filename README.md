@@ -1,3 +1,4 @@
 # RC-Plane
 
-Foothill Engineering's Club Project
+2025 Foothill Engineering's Club RC - Semi-Autonomous RC Plane
+
